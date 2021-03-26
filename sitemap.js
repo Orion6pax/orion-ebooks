@@ -1,8 +1,7 @@
 // ---------------------------------------------------
 // Author: Orion Pax
 // Url: https://www.orionpax.in
-// Version: 2
-// Date: 17/10/2020
+// Date: 26/03/2021
 // ---------------------------------------------------
 
    var postTitle = new Array();     // array of posttitles
