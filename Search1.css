@@ -64,7 +64,7 @@
   margin:0 0 0 1em;
 }
 
-.js-search .img {background:rgba(0,0,0,.05)}
+.js-search .img {background:rgba(255,255,255,.05)}
 
 .js-search:not(.has-image):not(.has-excerpt) h4 {
   font-size:100%;
